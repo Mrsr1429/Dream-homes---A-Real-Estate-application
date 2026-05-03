@@ -17,43 +17,9 @@ This is a Real Estate Application built using Android Studio and Firebase. The a
 
 ## Screenshots
 
-### Home Screen
-![Home page](https://github.com/SagarBawanthade/RealEstatApp/assets/137410094/dca256ac-9790-4cc1-a86d-46605971f3e9)
+garBawanthade/RealEstatApp/assets/137410094/1225aaf0-5e61-4d63-9236-b89654f25e8b)
 
 
-
-### Login Screen
-![login page](https://github.com/SagarBawanthade/RealEstatApp/assets/137410094/463bd6b3-7e68-43f4-a06f-42f6adc89cbb)
-
-
-
-### Register Screen
-![sign up page](https://github.com/SagarBawanthade/RealEstatApp/assets/137410094/1225aaf0-5e61-4d63-9236-b89654f25e8b)
-
-
-
-### Home Screen
-![Home page](https://github.com/SagarBawanthade/RealEstatApp/assets/137410094/25fa85ca-b04d-48df-a899-680d451394d3)
-
-
-
-### Property Details Screen
-![detail page](https://github.com/SagarBawanthade/RealEstatApp/assets/137410094/1f9041d5-0137-492f-93ed-09b22bb3bfef)
-
-
-
-### User Profile Screen
-![Acc page](https://github.com/SagarBawanthade/RealEstatApp/assets/137410094/30092baa-be7a-4de7-8137-9838c6b5d6ab)
-
-
-
-### Add listing Screen
-![Add property page](https://github.com/SagarBawanthade/RealEstatApp/assets/137410094/bed95572-fb69-496f-86de-6c443905d6b7)
-
-
-
-### Favorite Screen
-![fav page](https://github.com/SagarBawanthade/RealEstatApp/assets/137410094/70fecd78-8c21-4678-a073-4388981baaac)
 
 
 
